@@ -49,4 +49,4 @@
 
 ## 4. [Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
 - Arrays
-- [Dictionaries](https://github.com/jocelyn-boyd/Swift-Fundamentals-Exercises/blob/main/Exercises.playground/Pages/Collections-Dictionaries.xcplaygroundpage/Contents.swift) 
+- [Dictionaries Exercises](https://github.com/jocelyn-boyd/Swift-Fundamentals-Exercises/blob/main/Exercises.playground/Pages/Collections-Dictionaries.xcplaygroundpage/Contents.swift) 
